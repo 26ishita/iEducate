@@ -4,7 +4,7 @@
         
     }
     .navbar{
-        height: 300px;
+        height: 100px;
         flex-direction: column;
         transition: all .20s ease-out;
         background-color: rgb(15, 11, 11);
@@ -56,6 +56,9 @@
     }
     .paras{
         padding: 0px ;
+    }
+    .form{
+        max-width: 300px;
     }
     
     
