@@ -30,6 +30,10 @@
     .v-class-resp{
         opacity: 0;
     }
+    .thumbnail img{
+        width: 100px;
+        height: 8px;
+    }
     .text-small{
         text-align: center;
         font-size: 25px;
