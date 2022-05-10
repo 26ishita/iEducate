@@ -4,7 +4,7 @@
         
     }
     .navbar{
-        height: 100px;
+        height: 80px;
         flex-direction: column;
         transition: all .20s ease-out;
         background-color: rgb(15, 11, 11);
